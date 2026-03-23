@@ -1,7 +1,5 @@
 # AI-Based Vital Analysis and Health Prediction System
 
-This project is a ready-to-run prototype for Track 5: VIT Internship Special Track.
-
 It provides:
 
 - Vitals dataset input (uploaded CSV or generated sample data)
