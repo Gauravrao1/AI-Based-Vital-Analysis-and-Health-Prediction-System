@@ -75,4 +75,3 @@ streamlit run app.py
 
 - If you do not upload files, the app uses realistic synthetic sample data.
 - `sample_data/` is included for quick manual testing.
-- This is a prototype suitable for internship/demo submission and can be extended with real sensor streams and clinical datasets.
